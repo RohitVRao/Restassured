@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T17:17:21 IST" name="Default suite" finished-at="2023-01-04T17:17:23 IST" duration-ms="2399">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T17:17:21 IST" name="Default test" finished-at="2023-01-04T17:17:23 IST" duration-ms="2399">
+      <class name="crud_operation_with_framework_component.Get_project_using_excel">
+        <test-method is-config="true" signature="BSconfig()[pri:0, instance:crud_operation_with_framework_component.Get_project_using_excel@f736069]" started-at="2023-01-04T17:17:21 IST" name="BSconfig" finished-at="2023-01-04T17:17:22 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BSconfig -->
+        <test-method signature="getSingleProject()[pri:0, instance:crud_operation_with_framework_component.Get_project_using_excel@f736069]" started-at="2023-01-04T17:17:22 IST" name="getSingleProject" finished-at="2023-01-04T17:17:23 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleProject -->
+        <test-method is-config="true" signature="ASconfig()[pri:0, instance:crud_operation_with_framework_component.Get_project_using_excel@f736069]" started-at="2023-01-04T17:17:23 IST" name="ASconfig" finished-at="2023-01-04T17:17:23 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ASconfig -->
+      </class> <!-- crud_operation_with_framework_component.Get_project_using_excel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
